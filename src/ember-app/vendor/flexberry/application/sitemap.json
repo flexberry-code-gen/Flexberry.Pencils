@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Pencils",
+  "applicationTitle": "Pencils",
+  "items": [
+    {
+      "link": null,
+      "menuName": "pencils",
+      "caption": "Pencils",
+      "title": "Pencils",
+      "children": [
+        {
+          "link": "i-i-s-pencils-pencil-l",
+          "menuName": null,
+          "caption": "Pencil",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

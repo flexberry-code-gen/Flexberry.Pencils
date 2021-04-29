@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Pencil",
+  "name": "IISPencilsPencilE",
+  "className": "PencilE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-pencils-pencil",
+      "modelProjection": "PencilE"
+    }
+  ]
+}

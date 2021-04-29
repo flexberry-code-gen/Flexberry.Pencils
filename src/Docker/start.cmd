@@ -1,0 +1,1 @@
+docker-compose -p pencils up -d

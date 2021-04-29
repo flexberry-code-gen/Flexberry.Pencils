@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-pencils-pencil-e",
+  "editForm": "i-i-s-pencils-pencil-e",
+  "external": false,
+  "caption": "Pencil",
+  "name": "IISPencilsPencilL",
+  "className": "PencilL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-pencils-pencil",
+      "modelProjection": "PencilL"
+    }
+  ]
+}
